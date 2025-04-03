@@ -1,0 +1,27 @@
+# HTTP Requests & Networking
+requests>=2.28.1
+urllib3>=1.26.12
+
+# Telegram Bot Framework
+python-telegram-bot>=13.13
+
+# Scheduling
+schedule>=1.1.0
+
+# HTML Parsing (for advanced webpage analysis)
+beautifulsoup4>=4.11.1
+lxml>=4.9.1
+
+# Utilities
+python-dateutil>=2.8.2
+pytz>=2022.2.1
+
+# Security
+cryptography>=38.0.1
+
+# Async Support
+asyncio>=3.4.3
+aiohttp>=3.8.3
+
+# Logging Enhancements
+colorlog>=6.7.0 

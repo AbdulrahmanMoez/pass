@@ -1,0 +1,8 @@
+{
+    "bot_token": "7630486075:AAHxXRciAYGIJIYwRhwjN6tbxD4IVYhVGlg",
+    "admin_chat_ids": [
+        2021167403
+    ],
+    "check_interval_hours": 5,
+    "target_url": "https://amr-elsherif.net/"
+} 

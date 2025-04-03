@@ -1,0 +1,12 @@
+{
+  "script_version": "Enhanced Password Tester 1.0",
+  "start_time": 1743606322.6589227,
+  "end_time": 1743606328.8783298,
+  "elapsed_seconds": 6.208112955093384,
+  "total_passwords_tested": 39,
+  "passwords_per_second": 6.282102191456237,
+  "success": true,
+  "found_password": "Amr5768",
+  "max_workers": 8,
+  "batch_size": 10
+}
