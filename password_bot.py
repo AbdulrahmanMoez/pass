@@ -512,7 +512,7 @@ async def start_password_test(context, scheduled=False):
 
 def schedule_password_check():
     """Schedule a password check every 5 hours"""
-    schedule.every(5).hours.do(lambda: schedule_job())
+    schedule.every(6).hours.do(lambda: schedule_job())
     
     # Start a background thread for the scheduler
     scheduler_thread = threading.Thread(target=run_scheduler)
